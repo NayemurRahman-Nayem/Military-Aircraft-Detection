@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MilitaryAircraft</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="user_display_picture">Picture</string>
+</resources>
