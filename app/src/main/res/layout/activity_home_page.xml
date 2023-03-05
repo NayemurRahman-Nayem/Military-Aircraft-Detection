@@ -31,4 +31,19 @@
         android:textColor="#FBFBFB"
         android:textSize="20sp" />
 
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_below="@+id/gotoProfile"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text=" Logout "
+        android:textAllCaps="false"
+        android:textColor="#FBFBFB"
+        android:textSize="20sp"
+        />
+
 </RelativeLayout>
